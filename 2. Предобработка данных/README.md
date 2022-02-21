@@ -17,6 +17,8 @@
 #### теги:
 - data analyst, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, nonlinear optimization, data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst
 
+#### Статус (Завершено)
+
 
 
 
@@ -37,3 +39,5 @@ The results of the study will be taken into account when building a credit scori
 - Pandas
 #### tags:
 - data analyst, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, nonlinear optimization, data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst
+
+#### Status (Completed)
