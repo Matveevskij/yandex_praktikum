@@ -17,6 +17,9 @@
 - data analyst, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, nonlinear optimization, data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst, LTV, CAC, ROI, Кагортный анализ
 
 
+#### Статус (Завершено)
+
+
 
 
 
@@ -37,3 +40,5 @@
 
 #### tags:
 - data analyst, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, nonlinear optimization, data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst, LTV, CAC, ROI, Cohort analysis
+
+#### Status (Completed)
