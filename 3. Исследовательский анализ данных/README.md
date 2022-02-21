@@ -34,7 +34,7 @@
   
 #### Scope of activities: 
 - Banking / FinTech, Startups, IT company, Business services [b2b] 
-- 
+ 
 #### Used libraries:
 - Pandas, matplotlib, numpy, seaborn
 
