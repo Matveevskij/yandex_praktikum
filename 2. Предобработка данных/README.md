@@ -21,7 +21,7 @@
 
 
 
-# Project. Research of ads for the sale of apartments
+# Project. Investigation of the reliability of borrowers
 
 
 #### Task: 
