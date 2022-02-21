@@ -1,7 +1,6 @@
 # Аналитик данных — Яндекс.Практикум
 [![Аналитик данных — Яндекс.Практикум](/logo.png)](https://praktikum.yandex.ru/data-analyst/)
 
-Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
 
 
 ## Описание:
