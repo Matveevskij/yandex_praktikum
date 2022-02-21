@@ -16,6 +16,8 @@
 #### теги:
 - data analyst, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, nonlinear optimization, data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst
 
+#### Статус (Завершено)
+
 
 
 
@@ -38,3 +40,5 @@ It is necessary to make a preliminary analysis of tariffs on a small sample of c
 
 #### tags:
 - data analyst, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, nonlinear optimization, data processing, duplicates, omissions, categorization, lemmatization, data analyst, data analyst, analyst, financial analyst, analyst
+
+#### Status (Completed)
