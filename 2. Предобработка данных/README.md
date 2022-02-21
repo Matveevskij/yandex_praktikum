@@ -21,7 +21,7 @@
 
 
 
-# The project is a study of the reliability of borrowers
+# Project. Research of ads for the sale of apartments
 
 
 #### Task: 
